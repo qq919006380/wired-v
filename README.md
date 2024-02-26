@@ -8,12 +8,12 @@
 使用 npm 安装这个包：
 
 ```bash
-npm install reverse-string-package
+npm install wired-v
 
-yarn add reverse-string-package
+yarn add wired-v
 
 ```js
-import { reverseString } from 'reverse-string-package';
+import { reverseString } from 'wired-v';
 
 const myString = "Hello, World!";
 const reversed = reverseString(myString);
